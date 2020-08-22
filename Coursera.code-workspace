@@ -1,0 +1,21 @@
+{
+  "folders": [
+	{
+		"name": "img",
+		"path": "..\\PATRICIA\\WEBS\\OZ-STUDIO\\img"
+	},
+	{
+		"name": "proyecto-web",
+		"path": "..\\Desktop\\proyecto-web"
+	},
+	{
+		"path": "..\\Desktop\\ProyectosWeb\\menu-nav-movil"
+	},
+	{
+		"path": "..\\Desktop\\ProyectosWeb\\text-appear-scroll"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "text-appear-scroll"
+  }
+}
